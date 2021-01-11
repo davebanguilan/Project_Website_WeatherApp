@@ -7,3 +7,5 @@ This project is created using React. It uses OpenWeatherMap API to get current w
 Axios: For fetching data
 
 ### Visit the deployed site in heroku
+
+https://limitless-journey-87948.herokuapp.com/
